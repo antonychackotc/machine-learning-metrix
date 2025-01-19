@@ -25,6 +25,3 @@ step: 3
 6) check binary classification or multi class classification
 7) if target column is binary classification (logistic regressor,svm classifier)
 8) else: (decession tree classifier,random forest classifier, boosting classifier(find week area then book seperately) , knn classifier(outlier value is attact to nearest neighbor), naice bayes classifier, svm classifier
-
- 
-4) 
